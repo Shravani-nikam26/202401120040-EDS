@@ -1,4 +1,4 @@
-
+#
 # Accept mass and velocity as input
 mass = float(input())  # Input mass in kilograms
 velocity = float(input())  # Input velocity in meters per second
