@@ -8,6 +8,8 @@
 [Download Certificate](./Roll%20no%2026cs8.pdf)
 
 
+Download  cisco Certificate 
+[Download Certificate](./Practical%201.pdf)
 
 
 
