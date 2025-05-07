@@ -20,4 +20,4 @@
 [practical 4](./Practical%204.pdf)
 
 ✅ Practical 5
-[practical 4](./Practical%205.pdf)
+[practical 5](./Practical%205.pdf)
