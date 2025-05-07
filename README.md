@@ -6,10 +6,7 @@
 
  ✅ Download  cisco Certificate 
 [Download Certificate](./Roll%20no%2026cs8.pdf)
-## Practical 1
 
-- ✅ [Program 1](./Practical%201/practical1_1.py)
-- ✅ [Program 2](./Practical%201/practical1_2.py)
 
 
 
